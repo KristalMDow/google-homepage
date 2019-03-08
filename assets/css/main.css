@@ -1,0 +1,122 @@
+/*
+Description: This is the main CSS file for the Google homepage reconstruction project by Kristal Dow.
+
+For a README containing full information and credits, you can clone from: 
+    https://github.com/KristalMDow/google-homepage
+
+Last Edited: 20190308 KMD
+*/
+
+html, body {
+    background: white;
+    font: normal .9em/2 Arial, sans-serif;
+    height: 100%;
+}
+
+.button {
+    background-color: #f2f2f2;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+    margin: 5px;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+}
+
+.button:hover {
+    border-color: #e0e0e0;
+}
+
+
+#signin {
+    background-color: #4485f6;
+    color: white;
+    font-weight: 550;
+    padding: 8px 15px;
+    position: flex;
+}
+
+#signin:hover {
+    border-color: transparent;
+}
+
+#header, #footer {
+    clear: both;
+    width: 100%;
+    display: block;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#icon {
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+
+#icon:hover {
+    color: black;
+}
+
+a {
+    color: #424242;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+#central {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+}
+
+#search {
+    width: 550px;
+    border: 1px solid #e0e0e0;
+    border-radius: 25px;
+    height: 30px;
+    padding: 8px 20px;
+}
+
+#search:hover {
+    box-shadow: 0 0 2px 3px #f2f2f2;
+}
+
+#central fieldset {
+    position: absolute;
+    justify-self: center;
+    justify-items: center;
+}
+
+#imgDiv {
+    width: 600px;
+    justify-items: center;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    background: #f2f2f2;
+    height: 38px;
+    border-top: 1px;
+    border-color: #e0e0e0;
+    border-style: solid;
+}
