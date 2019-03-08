@@ -47,5 +47,5 @@ Website Modeled: [Google.com](http://www.google.com)
 
 Reset CSS: [Meyerweb Reset](http://meyerweb.com/eric/tools/css/reset/)
 
-Additional CSS Resource: [CSS-Tricks](https://css-tricks.com/), in particular their ["A Complete Guide to Grid"](https://css-tricks.com/snippets/css/complete-guide-grid/)
+Additional CSS Resource: [CSS-Tricks](https://css-tricks.com/)
 
