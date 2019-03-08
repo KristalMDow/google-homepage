@@ -11,7 +11,13 @@ This project is a result of my study of [The Odin Project](https://theodinprojec
 - Modest responsive web design.
 
 ## Getting Started
-Website should be viewable in any modern browser. After you have cloned from Github via your favored method, open index.html in your favorite browser to view the page.
+You can view the website live at:
+
+    https://kristalmdow.github.io/google-homepage
+
+Or click [here.](https://kristalmdow.github.io/google-homepage) The website should be viewable in any modern browser. 
+
+Alternatively, after you have cloned from Github via your favored method, open index.html in your favorite browser to view the page.
 
 If you are new to the technologies listed below, you can familiarize yourself with them through [The Odin Project](https://theodinproject.com) like I have, or click the links below for each technology.
 
